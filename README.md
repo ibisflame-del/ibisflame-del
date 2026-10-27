@@ -50,10 +50,27 @@ Windows PC before it goes out.
 
 ---
 
+## 🐍 MEDUSA: a free creative suite that runs on your own PC
+
+<a href="https://ibisflame.itch.io/medusa"><img src="medusa.jpg" alt="MEDUSA — Create. Convert. Elevate." width="380"></a>
+
+- **Edit on any Windows PC:** a video editor for shorts and videos (9:16, 16:9, 1:1, 4:5) with titles, captions, music
+  and voice tracks; an audio editor that measures every change before and after; a photo editor; 32 built-in fonts for
+  lettering and comic pages.
+- **Make with AI on your own graphics card:** pictures, video (Wan 2.2) and voices (Qwen3-TTS) with the models *you*
+  choose. This needs an NVIDIA card with 6 GB or more; a one-click setup for those parts is the next update.
+- **Safe by design:** adults only, a real person's face or voice needs their consent, and what she makes with AI is
+  labelled AI-generated.
+- **Updates herself:** she asks once, checks every update's signature and fingerprint, and puts your version back if a
+  new one doesn't start. Your projects are never touched.
+
+**→ [Try MEDUSA free on itch.io](https://ibisflame.itch.io/medusa)**
+
+---
+
 ## Coming next
 
-**Medusa** turns what Spider writes (comics, ads, cards) into pictures, video and voice. Follow Ibis Tech on itch.io to
-hear about it first.
+More Ibis apps are on the way. Follow Ibis Tech on itch.io to hear about them first.
 
 ## Help it grow
 
