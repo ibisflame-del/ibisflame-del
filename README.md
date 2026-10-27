@@ -52,7 +52,7 @@ Windows PC before it goes out.
 
 ## 🐍 MEDUSA: a free creative suite that runs on your own PC
 
-<a href="https://ibisflame.itch.io/medusa"><img src="medusa.jpg" alt="MEDUSA — Create. Convert. Elevate." width="380"></a>
+[![Watch the MEDUSA tour](https://img.youtube.com/vi/JsQKYQF-LEg/maxresdefault.jpg)](https://youtu.be/JsQKYQF-LEg)
 
 - **Edit on any Windows PC:** a video editor for shorts and videos (9:16, 16:9, 1:1, 4:5) with titles, captions, music
   and voice tracks; an audio editor that measures every change before and after; a photo editor; 32 built-in fonts for
