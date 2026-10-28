@@ -70,7 +70,7 @@ Windows PC before it goes out.
 
 ## Coming next
 
-More Ibis apps are on the way. Follow Ibis Tech on itch.io to hear about them first.
+More Ibis apps are on the way. Follow Ibis Tech on itch.io or on X ([@IbisTechNC](https://x.com/IbisTechNC)) to hear about them first.
 
 ## Help it grow
 
@@ -78,7 +78,7 @@ More Ibis apps are on the way. Follow Ibis Tech on itch.io to hear about them fi
 - **Support it** on its itch.io page if it helps you.
 - **Share the itch.io link** instead of the installer, so everyone gets a genuine copy.
 
-📺 Videos: [ThirdEyeJoe on YouTube](https://www.youtube.com/@ThirEyeJoe) · 🎮 All apps: [ibisflame.itch.io](https://ibisflame.itch.io)
+📺 Videos: [ThirdEyeJoe on YouTube](https://www.youtube.com/@ThirEyeJoe) · 🎮 All apps: [ibisflame.itch.io](https://ibisflame.itch.io) · 𝕏 News: [@IbisTechNC](https://x.com/IbisTechNC)
 · 📥 Installers + signed update files: [ibis-releases](https://github.com/ibisflame-del/ibis-releases)
 
 <sub>© 2026 Joseph Carl Thomas, Ibis Tech. All rights reserved. The apps' source code is not public.</sub>
