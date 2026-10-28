@@ -68,6 +68,11 @@ Windows PC before it goes out.
 
 ---
 
+## Training
+
+- 🎓 **CS50x: Introduction to Computer Science**, Harvard's CS50 (2026): ten problem sets and a final project. [Verify the certificate](https://cs50.harvard.edu/certificates/98011a4b-2769-4d71-8e4c-5bb283fdf089) · [final project video](https://youtu.be/BHypnuj8y-A)
+- 🤖 **CS50's Introduction to Artificial Intelligence with Python**, Harvard's CS50 (2026): twelve projects. [Verify the certificate](https://cs50.harvard.edu/certificates/7c086ecc-7957-4d21-a386-329658a0fb7c)
+
 ## Coming next
 
 More Ibis apps are on the way. Follow Ibis Tech on itch.io or on X ([@IbisTechNC](https://x.com/IbisTechNC)) to hear about them first.
