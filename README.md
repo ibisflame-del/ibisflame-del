@@ -68,6 +68,40 @@ Windows PC before it goes out.
 
 ---
 
+## 🧑‍💻 IBIS-CODER: a free AI coder you can watch, on your own PC
+
+[![Watch the IBIS-CODER tour](https://img.youtube.com/vi/OAurQelHtTU/maxresdefault.jpg)](https://youtu.be/OAurQelHtTU)
+
+- **A real code editor:** Monaco, the editor inside VS Code, built in and working offline, with find across the project,
+  errors marked as you type, and a terminal.
+- **An AI coder on the model *you* pick:** ask it about your code, or let it do the work. It reads, edits, runs the tests
+  and fixes, and you watch every step. Every change can be undone.
+- **Measured, not claimed:** on a 6 GB laptop, ministral-3 fixed 9 of 9 real test tasks and granite4.1:3b fixed 1 of 9,
+  each judged by running the code.
+- **A test robot, your coding books, locked boxes:** the AI can use your project's page like a person, search your own
+  books while it works, and run projects in IQC's boxes.
+
+**→ [Try IBIS-CODER free on itch.io](https://ibisflame.itch.io/ibiscoder)**
+
+---
+
+## 🧟 Dr. Frankenstein's Reanimation Labs: train your own AI, on your own PC
+
+[![Watch the lab's tour](https://img.youtube.com/vi/ToUxZGfVg1M/maxresdefault.jpg)](https://youtu.be/ToUxZGfVg1M)
+
+- **Your material in, a trained model out:** the Dataset Forge turns your books and notes into question-and-answer pairs,
+  checks every pair against its source and throws out made-up answers.
+- **The maths done for you:** the planner works out whether your graphics card can train the model you pick, then a short
+  run measures the real memory (1.4 % off the estimate in the tour).
+- **One button trains it, then proves it:** LoRA / QLoRA with a live loss curve, and the same held-out questions answered
+  before and after. In the tour, held-out loss fell from 4.45 to 1.54.
+- **Export** the result as one GGUF file for Ollama or IQC. Training needs an NVIDIA card; the Forge, planner and chat
+  run without one.
+
+**→ [Try the lab free on itch.io](https://ibisflame.itch.io/dr-frankensteins-reanimation-labs)**
+
+---
+
 ## Training
 
 - 🎓 **CS50x: Introduction to Computer Science**, Harvard's CS50 (2026): ten problem sets and a final project. [Verify the certificate](https://cs50.harvard.edu/certificates/98011a4b-2769-4d71-8e4c-5bb283fdf089) · [final project video](https://youtu.be/BHypnuj8y-A)
